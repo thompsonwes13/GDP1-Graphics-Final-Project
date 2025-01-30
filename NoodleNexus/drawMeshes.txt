@@ -1,0 +1,629 @@
+Name: SkySphere
+Path: assets/models/Sphere_radius_1_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: wood_floor_texture_01.bmp 1.0
+
+Name: Chandelier1
+Path: assets/models/hall/chandelier_xyz_N_uv.ply
+isWireFrame: false
+Colour: 89 83 74
+Transparency: 1.0
+Texture: chandelier_texture.bmp 1.0
+
+Name: Floor1
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: wood_floor_texture_01.bmp 1.0
+
+Name: Ceiling
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 149 143 134
+Transparency: 1.0
+Texture: ceiling_texture_01.bmp 0.5
+
+Name: WallR1
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: WallL1
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: WallF1
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: WallB1
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: Floor2
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: wood_floor_texture_01.bmp 1.0
+
+Name: Floor3
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: wood_floor_texture_01.bmp 1.0
+
+Name: Floor4
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: wood_floor_texture_01.bmp 1.0
+
+Name: Floor5
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: wood_floor_texture_01.bmp 1.0
+
+Name: Floor6
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: wood_floor_texture_01.bmp 1.0
+
+Name: Floor7
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: wood_floor_texture_01.bmp 1.0
+
+Name: Floor8
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: wood_floor_texture_01.bmp 1.0
+
+Name: Floor9
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: wood_floor_texture_01.bmp 1.0
+
+Name: Floor10
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: wood_floor_texture_01.bmp 1.0
+
+Name: WallR2
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: WallR3
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: WallR4
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: WallR5
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: WallR6
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: WallR7
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: WallR8
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: WallR9
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: WallR10
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: WallL2
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: WallL3
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: WallL4
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: WallL5
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: WallL6
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: WallL7
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: WallL8
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: WallL9
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: Ceiling2
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: ceiling_texture_01.bmp 0.5
+
+Name: Ceiling3
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: ceiling_texture_01.bmp 0.5
+
+Name: Ceiling4
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: ceiling_texture_01.bmp 0.5
+
+Name: Ceiling5
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: ceiling_texture_01.bmp 0.5
+
+Name: Ceiling6
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: ceiling_texture_01.bmp 0.5
+
+Name: Ceiling7
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: ceiling_texture_01.bmp 0.5
+
+Name: Ceiling8
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: ceiling_texture_01.bmp 0.5
+
+Name: Ceiling9
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: ceiling_texture_01.bmp 0.5
+
+Name: Ceiling10
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: ceiling_texture_01.bmp 0.5
+
+Name: Ceiling11
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: ceiling_texture_01.bmp 0.5
+
+Name: Ceiling12
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: ceiling_texture_01.bmp 0.5
+
+Name: Ceiling13
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: ceiling_texture_01.bmp 0.5
+
+Name: Ceiling14
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: ceiling_texture_01.bmp 0.5
+
+Name: Ceiling15
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: ceiling_texture_01.bmp 0.5
+
+Name: Floor11
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: wood_floor_texture_01.bmp 1.0
+
+Name: Floor12
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: wood_floor_texture_01.bmp 1.0
+
+Name: Floor13
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: wood_floor_texture_01.bmp 1.0
+
+Name: Floor14
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: wood_floor_texture_01.bmp 1.0
+
+Name: Floor15
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: wood_floor_texture_01.bmp 1.0
+
+Name: WallF2
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: WallF3
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: WallF4
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: WallF5
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: WallF6
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: WallB2
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: WallB3
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: WallB4
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: WallB5
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: WallB6
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: WallL10
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_texture_01.bmp 0.4
+
+Name: Chandelier2
+Path: assets/models/hall/chandelier_xyz_N_uv.ply
+isWireFrame: false
+Colour: 89 83 74
+Transparency: 1.0
+Texture: chandelier_texture.bmp 1.0
+
+Name: Chandelier3
+Path: assets/models/hall/chandelier_xyz_N_uv.ply
+isWireFrame: false
+Colour: 89 83 74
+Transparency: 1.0
+Texture: chandelier_texture.bmp 1.0
+
+Name: Window1
+Path: assets/models/hall/window_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: window_texture.bmp 1.0
+
+Name: Window2
+Path: assets/models/hall/window_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: window_texture.bmp 1.0
+
+Name: Window3
+Path: assets/models/hall/window_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: window_texture.bmp 1.0
+
+Name: Window4
+Path: assets/models/hall/window_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: window_texture.bmp 1.0
+
+Name: Window5
+Path: assets/models/hall/window_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: window_texture.bmp 1.0
+
+Name: Door1
+Path: assets/models/hall/door_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: door_texture.bmp 1.0
+
+Name: Door2
+Path: assets/models/hall/door_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: door_texture.bmp 1.0
+
+Name: WallLight1
+Path: assets/models/hall/wall_light_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_light_texture.bmp 1.0
+
+Name: WallLight2
+Path: assets/models/hall/wall_light_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: wall_light_texture.bmp 1.0
+
+Name: LightSwitch1
+Path: assets/models/hall/light_switch_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: light_switch_texture.bmp 1.0
+
+Name: LightSwitch2
+Path: assets/models/hall/light_switch_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: light_switch_texture.bmp 1.0
+
+Name: Cabinet1
+Path: assets/models/hall/cabinet_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: cabinet_texture.bmp 1.0
+
+Name: Cabinet2
+Path: assets/models/hall/cabinet_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: cabinet_texture.bmp 1.0
+
+Name: Cabinet3
+Path: assets/models/hall/cabinet_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: cabinet_texture.bmp 1.0
+
+Name: WindowPane1
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 0.3
+Texture: window_cutout.bmp 1.0
+
+Name: WindowPane2
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 0.3
+Texture: window_cutout.bmp 1.0
+
+Name: WindowPane3
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 0.3
+Texture: window_cutout.bmp 1.0
+
+Name: WindowPane4
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 0.3
+Texture: window_cutout.bmp 1.0
+
+Name: WindowPane5
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 0.3
+Texture: window_cutout.bmp 1.0
+
+Name: Ground
+Path: assets/models/Flat_Plane_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: grass_texture.bmp 0.25
+
+Name: Vase1
+Path: assets/models/hall/glass_vase.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 0.6
+Texture: vase_texture.bmp 1.0
+
+Name: Vase2
+Path: assets/models/hall/glass_vase.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 0.6
+Texture: vase_texture.bmp 1.0
+
+Name: Vase3
+Path: assets/models/hall/glass_vase.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 0.6
+Texture: vase_texture.bmp 1.0
+
+Name: Basketball
+Path: assets/models/hall/basketball_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: basketball_texture.bmp 1.0

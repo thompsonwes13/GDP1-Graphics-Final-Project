@@ -1,0 +1,449 @@
+SkySphere
+Position - x: 87.0529 y: 0.427768 z: -54.3446
+Rotation - x: 0 y: 0 z: 0
+Scale - 1
+
+Chandelier1
+Position - x: 30 y: 6.5 z: 0
+Rotation - x: 0 y: 0 z: 0
+Scale - 0.4
+
+Floor1
+Position - x: 0 y: 0 z: 0
+Rotation - x: 0 y: 0 z: 0
+Scale - 0.05
+
+Ceiling
+Position - x: 0 y: 10 z: 0
+Rotation - x: 0 y: 90 z: 0
+Scale - 0.05
+
+WallR1
+Position - x: 0 y: 5 z: 5
+Rotation - x: 270 y: 270 z: 0
+Scale - 0.05
+
+WallL1
+Position - x: 0 y: 5 z: -5
+Rotation - x: 90 y: 90 z: 0
+Scale - 0.05
+
+WallF1
+Position - x: 95 y: 5 z: 0
+Rotation - x: 0 y: 0 z: 90
+Scale - 0.05
+
+WallB1
+Position - x: -5 y: 5 z: 0
+Rotation - x: 180 y: 0 z: 270
+Scale - 0.05
+
+Floor2
+Position - x: 10 y: 0 z: 0
+Rotation - x: 0 y: 0 z: 0
+Scale - 0.05
+
+Floor3
+Position - x: 20 y: 0 z: 0
+Rotation - x: 0 y: 0 z: 0
+Scale - 0.05
+
+Floor4
+Position - x: 30 y: 0 z: 0
+Rotation - x: 0 y: 0 z: 0
+Scale - 0.05
+
+Floor5
+Position - x: 40 y: 0 z: 0
+Rotation - x: 0 y: 0 z: 0
+Scale - 0.05
+
+Floor6
+Position - x: 50 y: 0 z: 0
+Rotation - x: 0 y: 0 z: 0
+Scale - 0.05
+
+Floor7
+Position - x: 60 y: 0 z: 0
+Rotation - x: 0 y: 0 z: 0
+Scale - 0.05
+
+Floor8
+Position - x: 70 y: 0 z: 0
+Rotation - x: 0 y: 0 z: 0
+Scale - 0.05
+
+Floor9
+Position - x: 80 y: 0 z: 0
+Rotation - x: 0 y: 0 z: 0
+Scale - 0.05
+
+Floor10
+Position - x: 90 y: 0 z: 0
+Rotation - x: 0 y: 0 z: 0
+Scale - 0.05
+
+WallR2
+Position - x: 10 y: 5 z: 5
+Rotation - x: 270 y: 270 z: 0
+Scale - 0.05
+
+WallR3
+Position - x: 20 y: 5 z: 5
+Rotation - x: 270 y: 270 z: 0
+Scale - 0.05
+
+WallR4
+Position - x: 30 y: 5 z: 5
+Rotation - x: 270 y: 270 z: 0
+Scale - 0.05
+
+WallR5
+Position - x: 40 y: 5 z: 5
+Rotation - x: 270 y: 270 z: 0
+Scale - 0.05
+
+WallR6
+Position - x: 50 y: 5 z: 5
+Rotation - x: 270 y: 270 z: 0
+Scale - 0.05
+
+WallR7
+Position - x: 60 y: 5 z: 5
+Rotation - x: 270 y: 270 z: 0
+Scale - 0.05
+
+WallR8
+Position - x: 70 y: 5 z: 5
+Rotation - x: 270 y: 270 z: 0
+Scale - 0.05
+
+WallR9
+Position - x: 80 y: 5 z: 5
+Rotation - x: 270 y: 270 z: 0
+Scale - 0.05
+
+WallR10
+Position - x: 90 y: 5 z: 5
+Rotation - x: 270 y: 270 z: 0
+Scale - 0.05
+
+WallL2
+Position - x: 10 y: 5 z: -5
+Rotation - x: 90 y: 90 z: 0
+Scale - 0.05
+
+WallL3
+Position - x: 20 y: 5 z: -5
+Rotation - x: 90 y: 90 z: 0
+Scale - 0.05
+
+WallL4
+Position - x: 30 y: 5 z: -5
+Rotation - x: 90 y: 90 z: 0
+Scale - 0.05
+
+WallL5
+Position - x: 40 y: 5 z: -5
+Rotation - x: 90 y: 90 z: 0
+Scale - 0.05
+
+WallL6
+Position - x: 50 y: 5 z: -5
+Rotation - x: 90 y: 90 z: 0
+Scale - 0.05
+
+WallL7
+Position - x: 60 y: 5 z: -5
+Rotation - x: 90 y: 90 z: 0
+Scale - 0.05
+
+WallL8
+Position - x: 70 y: 5 z: -5
+Rotation - x: 90 y: 90 z: 0
+Scale - 0.05
+
+WallL9
+Position - x: 80 y: 5 z: -5
+Rotation - x: 90 y: 90 z: 0
+Scale - 0.05
+
+Ceiling2
+Position - x: 10 y: 10 z: 0
+Rotation - x: 0 y: 90 z: 0
+Scale - 0.05
+
+Ceiling3
+Position - x: 20 y: 10 z: 0
+Rotation - x: 0 y: 90 z: 0
+Scale - 0.05
+
+Ceiling4
+Position - x: 30 y: 10 z: 0
+Rotation - x: 0 y: 90 z: 0
+Scale - 0.05
+
+Ceiling5
+Position - x: 40 y: 10 z: 0
+Rotation - x: 0 y: 90 z: 0
+Scale - 0.05
+
+Ceiling6
+Position - x: 50 y: 10 z: 0
+Rotation - x: 0 y: 90 z: 0
+Scale - 0.05
+
+Ceiling7
+Position - x: 60 y: 10 z: 0
+Rotation - x: 0 y: 90 z: 0
+Scale - 0.05
+
+Ceiling8
+Position - x: 70 y: 10 z: 0
+Rotation - x: 0 y: 90 z: 0
+Scale - 0.05
+
+Ceiling9
+Position - x: 80 y: 10 z: 0
+Rotation - x: 0 y: 90 z: 0
+Scale - 0.05
+
+Ceiling10
+Position - x: 90 y: 10 z: 0
+Rotation - x: 0 y: 90 z: 0
+Scale - 0.05
+
+Ceiling11
+Position - x: 90 y: 10 z: -10
+Rotation - x: 0 y: 0 z: 0
+Scale - 0.05
+
+Ceiling12
+Position - x: 90 y: 10 z: -20
+Rotation - x: 0 y: 0 z: 0
+Scale - 0.05
+
+Ceiling13
+Position - x: 90 y: 10 z: -30
+Rotation - x: 0 y: 0 z: 0
+Scale - 0.05
+
+Ceiling14
+Position - x: 90 y: 10 z: -40
+Rotation - x: 0 y: 0 z: 0
+Scale - 0.05
+
+Ceiling15
+Position - x: 90 y: 10 z: -50
+Rotation - x: 0 y: 0 z: 0
+Scale - 0.05
+
+Floor11
+Position - x: 90 y: 0 z: -10
+Rotation - x: 0 y: 90 z: 0
+Scale - 0.05
+
+Floor12
+Position - x: 90 y: 0 z: -20
+Rotation - x: 0 y: 90 z: 0
+Scale - 0.05
+
+Floor13
+Position - x: 90 y: 0 z: -30
+Rotation - x: 0 y: 90 z: 0
+Scale - 0.05
+
+Floor14
+Position - x: 90 y: 0 z: -40
+Rotation - x: 0 y: 90 z: 0
+Scale - 0.05
+
+Floor15
+Position - x: 90 y: 0 z: -50
+Rotation - x: 0 y: 90 z: 0
+Scale - 0.05
+
+WallF2
+Position - x: 95 y: 5 z: -10
+Rotation - x: 0 y: 0 z: 90
+Scale - 0.05
+
+WallF3
+Position - x: 95 y: 5 z: -20
+Rotation - x: 0 y: 0 z: 90
+Scale - 0.05
+
+WallF4
+Position - x: 95 y: 5 z: -30
+Rotation - x: 0 y: 0 z: 90
+Scale - 0.05
+
+WallF5
+Position - x: 95 y: 5 z: -40
+Rotation - x: 0 y: 0 z: 90
+Scale - 0.05
+
+WallF6
+Position - x: 95 y: 5 z: -50
+Rotation - x: 0 y: 0 z: 90
+Scale - 0.05
+
+WallB2
+Position - x: 85 y: 5 z: -10
+Rotation - x: 180 y: 0 z: 270
+Scale - 0.05
+
+WallB3
+Position - x: 85 y: 5 z: -20
+Rotation - x: 180 y: 0 z: 270
+Scale - 0.05
+
+WallB4
+Position - x: 85 y: 5 z: -30
+Rotation - x: 180 y: 0 z: 270
+Scale - 0.05
+
+WallB5
+Position - x: 85 y: 5 z: -40
+Rotation - x: 180 y: 0 z: 270
+Scale - 0.05
+
+WallB6
+Position - x: 85 y: 5 z: -50
+Rotation - x: 180 y: 0 z: 270
+Scale - 0.05
+
+WallL10
+Position - x: 90 y: 5 z: -55
+Rotation - x: 90 y: 90 z: 0
+Scale - 0.05
+
+Chandelier2
+Position - x: 90 y: 6.5 z: 0
+Rotation - x: 0 y: 0 z: 0
+Scale - 0.4
+
+Chandelier3
+Position - x: 90 y: 6.5 z: -40
+Rotation - x: 0 y: 0 z: 0
+Scale - 0.4
+
+Window1
+Position - x: 20 y: 5 z: 4.9
+Rotation - x: 0 y: 0 z: 0
+Scale - 5
+
+Window2
+Position - x: 50 y: 5 z: 4.9
+Rotation - x: 0 y: 0 z: 0
+Scale - 5
+
+Window3
+Position - x: 80 y: 5 z: 4.9
+Rotation - x: 0 y: 0 z: 0
+Scale - 5
+
+Window4
+Position - x: 95 y: 5 z: -10
+Rotation - x: 0 y: 90 z: 0
+Scale - 5
+
+Window5
+Position - x: 95 y: 5 z: -40
+Rotation - x: 0 y: 90 z: 0
+Scale - 5
+
+Door1
+Position - x: -4.7 y: 3.2 z: 0
+Rotation - x: 0 y: 0 z: 0
+Scale - 0.03
+
+Door2
+Position - x: 90 y: 3.2 z: -54.8
+Rotation - x: 0 y: 90 z: 0
+Scale - 0.03
+
+WallLight1
+Position - x: -4.3 y: 6 z: 3
+Rotation - x: 0 y: 270 z: 0
+Scale - 1
+
+WallLight2
+Position - x: 87.2 y: 6 z: -54.3
+Rotation - x: 0 y: 180 z: 0
+Scale - 1
+
+LightSwitch1
+Position - x: -4.95 y: 4 z: 2.75
+Rotation - x: 0 y: 0 z: 270
+Scale - 0.3
+
+LightSwitch2
+Position - x: 87.25 y: 4 z: -54.95
+Rotation - x: 0 y: 270 z: 270
+Scale - 0.3
+
+Cabinet1
+Position - x: 40 y: 2 z: -3.3
+Rotation - x: 0 y: 90 z: 0
+Scale - 1
+
+Cabinet2
+Position - x: 70 y: 2 z: -3.3
+Rotation - x: 0 y: 90 z: 0
+Scale - 1
+
+Cabinet3
+Position - x: 86.7 y: 2 z: -30
+Rotation - x: 0 y: 180 z: 0
+Scale - 1
+
+WindowPane1
+Position - x: 20 y: 5 z: 5.1
+Rotation - x: 90 y: 90 z: 0
+Scale - 0.05
+
+WindowPane2
+Position - x: 50 y: 5 z: 5.1
+Rotation - x: 90 y: 90 z: 0
+Scale - 0.05
+
+WindowPane3
+Position - x: 80 y: 5 z: 5.1
+Rotation - x: 90 y: 90 z: 0
+Scale - 0.05
+
+WindowPane4
+Position - x: 95.2 y: 5 z: -10
+Rotation - x: 0 y: 0 z: 90
+Scale - 0.05
+
+WindowPane5
+Position - x: 95.2 y: 5 z: -40
+Rotation - x: 0 y: 0 z: 90
+Scale - 0.05
+
+Ground
+Position - x: 50.0 y: -10 z: 0
+Rotation - x: 0 y: 0 z: 0
+Scale - 10.0
+
+Vase1
+Position - x: 40 y: 3.92 z: -4.2
+Rotation - x: 0 y: 0 z: 0
+Scale - 1
+
+Vase2
+Position - x: 70 y: 3.92 z: -4.2
+Rotation - x: 0 y: 0 z: 0
+Scale - 1
+
+Vase3
+Position - x: 86 y: 3.92 z: -30
+Rotation - x: 0 y: 0 z: 0
+Scale - 1
+
+Basketball
+Position - x: 28 y: 0.8 z: 3.5
+Rotation - x: 0 y: 0 z: 0
+Scale - 1

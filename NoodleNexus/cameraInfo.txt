@@ -1,0 +1,4 @@
+Camera
+x: -4.0 y: 5.0 z: 0.0
+Rotation-Left-Right: 90.0
+Rotation-Up-Down: 0.0

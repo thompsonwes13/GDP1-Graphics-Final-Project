@@ -1,0 +1,11 @@
+assets/models/Flat_Plane_xyz_N_uv.ply
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+assets/models/hall/chandelier_xyz_N_uv.ply
+assets/models/hall/window_xyz_N_uv.ply
+assets/models/hall/door_xyz_N_uv.ply
+assets/models/hall/wall_light_xyz_N_uv.ply
+assets/models/hall/light_switch_xyz_N_uv.ply
+assets/models/hall/cabinet_xyz_N_uv.ply
+assets/models/hall/low_poly_tree_xyz_N_uv.ply
+assets/models/hall/glass_vase.ply
+assets/models/hall/basketball_xyz_N_uv.ply
